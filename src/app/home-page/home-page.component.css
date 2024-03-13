@@ -1,0 +1,34 @@
+.container {
+  margin: 0 auto 15% auto !important;
+  padding: 0;
+  max-width: 50%;
+}
+
+.jumbotron {
+  background-color: #ffffff;
+  margin-top: 50px;
+}
+
+.logo {
+  font-family: "Product Sans", Arial, sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  color: #d9b40e;
+  letter-spacing: 0.03em;
+}
+
+.search-input {
+  border-radius: 5px;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+
+.result-item {
+  cursor: pointer;
+}
